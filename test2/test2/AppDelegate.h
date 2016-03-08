@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//  test2
+//
+//  Created by Kaitlyn Barbara Montour on 3/7/16.
+//  Copyright (c) 2016 Kaitlyn Barbara Montour. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
